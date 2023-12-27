@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DGXeon",
+  "author": "DGNhd",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.4.1",
@@ -98,10 +98,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD9.git"
+    "url": "git+https://github.com/DGNhd/CheemsBot-MD9.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD9/issues"
+    "url": "https://github.com/DGNhd/CheemsBot-MD9/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD9/#readme"
+  "homepage": "https://github.com/DGNhd/CheemsBot-MD9/#readme"
 }
